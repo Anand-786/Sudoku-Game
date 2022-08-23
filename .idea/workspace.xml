@@ -1,17 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaDesktopSudokuDemo2:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="38a95231-dce4-4908-a7a5-abaca2326bef" name="Changes" comment="" />
+    <list default="true" id="38a95231-dce4-4908-a7a5-abaca2326bef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDesktopSudokuDemo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDesktopSudokuDemo2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/SudokuApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/SudokuApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/buildlogic/SudokuBuildLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/buildlogic/SudokuBuildLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/computationlogic/GameGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/GameGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/computationlogic/GameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/GameLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/computationlogic/SudokuSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/SudokuSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/computationlogic/SudokuUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/SudokuUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/constants/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/constants/GameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/constants/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/constants/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/constants/Rows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/constants/Rows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/persistence/LocalStorageImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/persistence/LocalStorageImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/problemdomain/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/problemdomain/IStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/IStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/problemdomain/SudokuGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/SudokuGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/userinterface/IUserInterfaceContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/userinterface/IUserInterfaceContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/userinterface/SudokuTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/userinterface/SudokuTextField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/userinterface/UserInterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/userinterface/UserInterfaceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/userinterface/logic/ControlLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/userinterface/logic/ControlLogic.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2DdFyGsuvuYUvggcWTk2X8OdyZM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +59,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/10180/IdeaProjects/JavaDesktopSudoku-withoutgradle",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sudoku.Main" />
+      <module name="JavaDesktopSudokuDemo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sudoku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +97,16 @@
       <updated>1661021307751</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
